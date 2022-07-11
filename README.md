@@ -5,10 +5,6 @@ In this Python project, I analyzed marketing data at a fictional small online se
 
 The questions I answered include:
 1. What were the KPI values for the quarter?
-a. conversion rate
-b. customer churn rate
-c. revenue per order
-d. daily page views
 2. Which demographic groups generated the most revenue?
 3. What does our sales funnel look like going into the second quarter?
 4. What was our ROI for the purchase of those leads if they cost $50K?
